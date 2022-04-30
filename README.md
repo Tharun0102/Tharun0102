@@ -33,9 +33,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:rallapallitharun14@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Tharun0102"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/Tharun0102/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/Tharun0102"><img src="https://img.shields.io/badge/-Tharun%20Chowdary-blue?style=flat&logo=Linkedin&logoColor=white""/></a>
+<a href="mailto:rallapallitharun14@gmail.com"><img src="https://img.shields.io/badge/-Tharun%20Chowdary-red?style=flat&logo=Gmail&logoColor=white""/></a>
+<a href="https://instagram.com/tharunchowdary112"><img src="https://img.shields.io/badge/-%40tharunchowdary112-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
