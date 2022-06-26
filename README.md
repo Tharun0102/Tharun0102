@@ -15,7 +15,6 @@
 - :school: I am a pre-final year Computer Science Engineering student at NIT Agartala.
 - :computer: I've also worked as a Frontend Intern at InterviewVector where we utilized React.js for the frontend, Links - [Certificate](https://drive.google.com/file/d/1sLbYxhV55XKUH5_LII-xHSIupPEVPVop/view?usp=sharing)
 - :student: I’m currently Working with `React/Redux` , `NextJS` , `NodeJS/Express` , `TailwindCSS`.
-- :thinking: I’m currently open for: `Internhip` or a new `job opportunity`, here is my [RESUME](https://drive.google.com/file/d/1CLrkoFu2vfrCId2kedZTTcP5B2-xN3bs/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -31,7 +30,6 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/Tharun0102"><img src="https://img.shields.io/badge/-Tharun%20Chowdary-blue?style=flat&logo=Linkedin&logoColor=white""/></a>
 <a href="mailto:rallapallitharun14@gmail.com"><img src="https://img.shields.io/badge/-Tharun%20Chowdary-red?style=flat&logo=Gmail&logoColor=white""/></a>
