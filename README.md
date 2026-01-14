@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tharun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Computer+Science+Student;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -12,9 +12,8 @@
 
 
 ## About me:
-- :school: I am a pre-final year Computer Science Engineering student at NIT Agartala.
-- :computer: I've also worked as a Frontend Intern at InterviewVector where we utilized React.js for the frontend, Links - [Certificate](https://drive.google.com/file/d/1sLbYxhV55XKUH5_LII-xHSIupPEVPVop/view?usp=sharing)
-- :student: I’m currently Working with `React/Redux` , `NextJS` , `NodeJS/Express` , `TailwindCSS`.
+- :school: I am a passionate Software Engineer at Amazon solving real world problems.
+- :computer: I've also worked as both intern and SDE at Anuta Networks, as a Frontend Intern at InterviewVector.
 - :nerd_face: Always `learning new things`
 
 <br>
